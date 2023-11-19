@@ -8,7 +8,7 @@ https://github.com/bonadio/autogenwebdemo.git
 1. Clone the repository:
 
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/0xlws/autogen-api-demo.git
    ```
 
 2. Install the required packages:
@@ -21,7 +21,7 @@ https://github.com/bonadio/autogenwebdemo.git
 
    - Using npm:
      ```
-     npm install
+     npm run setup
      ```
 
 3. Inside `./backend/` rename the file "OAI_CONFIG_LIST.example" to "OAI_CONFIG_LIST" (remove the ".example" extension)
