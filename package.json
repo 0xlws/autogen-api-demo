@@ -1,0 +1,23 @@
+{
+  "name": "autogenapidemo",
+  "version": "1.0.0",
+  "description": "autogen",
+  "main": "",
+  "scripts": {
+    "dev": "chmod +x ./start.sh; ./start.sh",
+    "setup": "chmod +x ./setup.sh; ./setup.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xlws/autogen-api-demo.git"
+  },
+  "keywords": [
+    "autogen"
+  ],
+  "author": "0xlws",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xlws/autogen-api-demo/issues"
+  },
+  "homepage": "https://github.com/0xlws/autogen-api-demo#readme"
+}

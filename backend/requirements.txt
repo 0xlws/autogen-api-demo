@@ -1,0 +1,1 @@
+git+https://github.com/0xlws/autogen.git@dev#egg=pyautogen
